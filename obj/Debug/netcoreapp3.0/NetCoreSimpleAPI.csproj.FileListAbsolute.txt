@@ -1,0 +1,17 @@
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.exe
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.deps.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.runtimeconfig.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.runtimeconfig.dev.json
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\NetCoreSimpleAPI.pdb
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\staticwebassets\NetCoreSimpleAPI.StaticWebAssets.Manifest.cache
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\staticwebassets\NetCoreSimpleAPI.StaticWebAssets.xml
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.AssemblyInfoInputs.cache
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.AssemblyInfo.cs
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.pdb
