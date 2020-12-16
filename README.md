@@ -2,9 +2,9 @@
 
 ## Desarrollar una API en .Net Core/Framework, exponiendo 2 endpoints:
 
-_ a) El primero tiene que simular un login (parametrizar un único usuario válido) y retornar en cualquier caso una estructura con el resultado.
+a) El primero tiene que simular un login (parametrizar un único usuario válido) y retornar en cualquier caso una estructura con el resultado.
 
-_ b) El segundo tiene que, consumiendo la API pública https://apis.datos.gob.ar/georef/api/provincias, retornar lat y long de una provincia por nombre. (https://datosgobar.github.io/georef-ar-api/)
+b) El segundo tiene que, consumiendo la API pública https://apis.datos.gob.ar/georef/api/provincias, retornar lat y long de una provincia por nombre. (https://datosgobar.github.io/georef-ar-api/)
 
  
 
