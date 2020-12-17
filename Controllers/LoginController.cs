@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using NetCoreSimpleAPI.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+using NetCoreSimpleAPI.Services;
+using NetCoreSimpleAPI.Services.Interfaces;
 
 namespace NetCoreSimpleAPI.Controllers
 {
@@ -10,18 +13,31 @@ namespace NetCoreSimpleAPI.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
-        private readonly ApiContext _context;
+        private readonly ILoginService _loginService;
 
-        public LoginController(ApiContext context)
+        public LoginController(ILoginService loginService)
         {
-            _context = context;
-            _context.Database.EnsureCreated();
+            _loginService = loginService;
         }
 
         [HttpGet]
-        public IEnumerable<User> GetUser()
+        public IActionResult GetUser()
         {
-            return _context.Users.ToArray();
+            return Ok();
+        }
+
+        [HttpPost("auth")]
+        public async Task<ActionResult> UserLogin([FromBody] User user)
+        {
+            var result = await _loginService.auth(user);
+            if(result)
+            {
+                return Ok(result);
+            } 
+            else
+            {
+                return Unauthorized();
+            }
         }
     }
 }

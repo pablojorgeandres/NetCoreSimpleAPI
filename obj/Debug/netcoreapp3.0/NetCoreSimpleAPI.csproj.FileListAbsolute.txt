@@ -118,5 +118,10 @@ C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\
 C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
 C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
 C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\obj\Debug\netcoreapp3.0\NetCoreSimpleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pablo.andres\Documents\www\NetCoreSimpleAPI\NetCoreSimpleAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
