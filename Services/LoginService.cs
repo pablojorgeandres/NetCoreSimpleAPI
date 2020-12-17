@@ -19,7 +19,6 @@ namespace NetCoreSimpleAPI.Services
         {
             if (!usuarios.Any(u => u.Key == user.UserName && u.Value == user.Password))
             {
-                //var usuario = usuarios.First(x => x.Key == user.UserName);
                 return false;
             }
             return true;

@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NetCoreSimpleAPI.Models;
 
 namespace NetCoreSimpleAPI.Services.Interfaces
 {
-    interface IProvinciaService
+    public interface IProvinciaService
     {
+        Task<Provincia> latLong(String provName);
     }
 }
