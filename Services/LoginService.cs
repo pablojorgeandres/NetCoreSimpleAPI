@@ -11,8 +11,8 @@ namespace NetCoreSimpleAPI.Services
     {
         IDictionary<string, string> usuarios = new Dictionary<string, string>
         {
-            { "Pablo", "123456" },
-            { "P2", "789" }
+            { "User1", "1234567" },
+            { "User2", "7891011" }
         };
 
         public async Task<bool> auth(User user)

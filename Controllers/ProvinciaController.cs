@@ -22,10 +22,11 @@ namespace NetCoreSimpleAPI.Controllers
         }
 
         [HttpGet("{provName}")]
-        public async Task<Provincia> getLatLon(string provName)
+        public async Task<Dictionary<string, float>> getLatLon(string provName)
         {
             var result = await _provinciaService.latLong(provName);
-            return result;
+            var centroide = result.provincias[0].centroide;
+            return centroide;
         }
     }
 }

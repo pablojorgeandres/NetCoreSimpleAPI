@@ -7,9 +7,17 @@ namespace NetCoreSimpleAPI.Models
 {
     public class Provincia
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Lat { get; set; }
-        public string Lon { get; set; }
+        public int cantidad { get; set; }
+        public int inicio { get; set; }
+        public Dictionary<string, string> parametros { get; set; }
+        public List<JsonProvincia> provincias { get; set; }
+        public int total { get; set; }
+    }
+
+    public class JsonProvincia
+    {
+        public Dictionary<string, float> centroide { get; set; }
+        public string id { get; set; }
+        public string nombre { get; set; }
     }
 }

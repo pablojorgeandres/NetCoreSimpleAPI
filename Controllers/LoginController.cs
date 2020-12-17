@@ -20,12 +20,6 @@ namespace NetCoreSimpleAPI.Controllers
             _loginService = loginService;
         }
 
-        [HttpGet]
-        public IActionResult GetUser()
-        {
-            return Ok();
-        }
-
         [HttpPost("auth")]
         public async Task<ActionResult> UserLogin([FromBody] User user)
         {
